@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application 04CTCCODER</Name>
+    <Assembly>D:\02.Documents\CTC RIBBON\112018\04CTCCODER\04CTCCODER\bin\Debug\04CTCCODER.dll</Assembly>
+    <FullClassName>_04CTCCODER.App</FullClassName>
+    <ClientId>5a669873-5cdc-43e9-b2fd-0535efd35011</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
